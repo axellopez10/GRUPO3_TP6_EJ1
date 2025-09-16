@@ -16,6 +16,7 @@ public class GRUPO3_TP6_EJ1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("hola prueba tp6");
     }
     
 }

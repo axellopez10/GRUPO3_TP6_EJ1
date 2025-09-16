@@ -11,4 +11,6 @@ package grupo3_tp6_ej1;
  */
 public class Prueba {
     
+    private int hola;
+    
 }
